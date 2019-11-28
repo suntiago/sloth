@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="sloth_AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/sloth_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/sloth_colorPrimaryDark</item>
+        <item name="colorAccent">@color/sloth_colorAccent</item>
+    </style>
+</resources>

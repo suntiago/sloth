@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:id="@+id/loading_animation" android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="@integer/sloth_loading_frame_interval" android:drawable="@drawable/sloth_loading_1" />
+    <item android:duration="@integer/sloth_loading_frame_interval" android:drawable="@drawable/sloth_loading_2" />
+    <item android:duration="@integer/sloth_loading_frame_interval" android:drawable="@drawable/sloth_loading_3" />
+    <item android:duration="@integer/sloth_loading_frame_interval" android:drawable="@drawable/sloth_loading_4" />
+    <item android:duration="@integer/sloth_loading_frame_interval" android:drawable="@drawable/sloth_loading_5" />
+    <item android:duration="@integer/sloth_loading_frame_interval" android:drawable="@drawable/sloth_loading_6" />
+    <item android:duration="@integer/sloth_loading_frame_interval" android:drawable="@drawable/sloth_loading_7" />
+    <item android:duration="@integer/sloth_loading_frame_interval" android:drawable="@drawable/sloth_loading_8" />
+    <item android:duration="@integer/sloth_loading_frame_interval" android:drawable="@drawable/sloth_loading_9" />
+    <item android:duration="@integer/sloth_loading_frame_interval" android:drawable="@drawable/sloth_loading_10" />
+    <item android:duration="@integer/sloth_loading_frame_interval" android:drawable="@drawable/sloth_loading_11" />
+    <item android:duration="@integer/sloth_loading_frame_interval" android:drawable="@drawable/sloth_loading_12" />
+</animation-list>

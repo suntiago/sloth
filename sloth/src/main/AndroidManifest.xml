@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.suntiago.sloth">
+
+    <application>
+        <activity
+            android:name="com.suntiago.sloth.activity.base.pickmedia.ShadowPickMediaActivity"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+    </application>
+</manifest>
